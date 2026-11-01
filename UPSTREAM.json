@@ -1,0 +1,12 @@
+{
+  "upstream": "shadcn-ui/ui",
+  "npm": "shadcn",
+  "tag": "shadcn@3.8.5",
+  "commit": "ad25490cf96e103901fb45c0cb99d112dabc9148",
+  "reviewed_through": "shadcn@3.8.5",
+  "files": [
+    "packages/shadcn/src/tailwind.css",
+    "LICENSE.md"
+  ],
+  "license": "MIT"
+}
