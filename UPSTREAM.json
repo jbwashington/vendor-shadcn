@@ -3,7 +3,7 @@
   "npm": "shadcn",
   "tag": "shadcn@3.8.5",
   "commit": "ad25490cf96e103901fb45c0cb99d112dabc9148",
-  "reviewed_through": "shadcn@3.8.5",
+  "reviewed_through": "shadcn@4.23.0",
   "files": [
     "packages/shadcn/src/tailwind.css",
     "LICENSE.md"
